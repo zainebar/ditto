@@ -232,6 +232,15 @@
   "testset": "data/er_magellan/Structured/Fodors-Zagats/test.txt"
   },
   {
+  "name": "Structured/client-namr",
+  "task_type": "classification",
+  "vocab": ["0", "1"],
+  "trainset": "data/er_magellan/Structured/client-namr/train.txt",
+  "validset": "data/er_magellan/Structured/client-namr/valid.txt",
+  "testset": "data/er_magellan/Structured/client-namr/test.txt"
+  },
+  
+  {
   "name": "Structured/iTunes-Amazon",
   "task_type": "classification",
   "vocab": ["0", "1"],
